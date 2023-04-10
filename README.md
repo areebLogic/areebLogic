@@ -11,7 +11,7 @@
 </p>
 
 
-## My Tech Stack
+<h2>My Tech Stack <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> :</h2>
 
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -72,7 +72,7 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salaarkhan-dev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/areebLogic) 
 
  <hr></hr>
 [![](https://visitcount.itsvg.in/api?id=areebLogic&icon=8&color=0)](https://visitcount.itsvg.in)   
