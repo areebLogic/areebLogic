@@ -75,4 +75,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salaarkhan-dev) 
 
  <hr></hr>
-[![](https://visitcount.itsvg.in/api?id=areebLogic&icon=8&color=0)](https://visitcount.itsvg.in)   ![](https://komarev.com/ghpvc/?username=areebLogic&color=blue)
+![](https://visitcount.itsvg.in/api?id=areebLogic&icon=8&color=0)](https://visitcount.itsvg.in)   
+![](https://komarev.com/ghpvc/?username=areebLogic&color=blue)
