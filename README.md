@@ -10,7 +10,9 @@
     :briefcase: LinkedIn: https://linkedin.com/in/areebLogic <br>
   </samp>
 </p>
-
+<hr></hr>
+<strong>Does my commit graph look empty? I might be busy here: https://gitlab.com/areebLogic </strong>
+<hr></hr>
 
 <h2>My Tech-Stack <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> :</h2>
 
