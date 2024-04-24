@@ -11,7 +11,7 @@
   </samp>
 </p>
 <hr></hr>
-<strong>Does my commit graph look empty? I might be busy here: https://gitlab.com/areebLogic </strong>
+<h3> <strong>Does my commit graph look empty? I might be busy here: https://gitlab.com/areebLogic </strong> </h3>
 <hr></hr>
 
 <h2>My Tech-Stack <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> :</h2>
